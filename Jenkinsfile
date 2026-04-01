@@ -16,7 +16,7 @@ pipeline {
 
         stage('Success') {
             steps {
-                echo 'Pipeline from GitHub executed successfully 🎉'
+                echo 'Pipeline just updated from GitHub, all is connedted lol 🎉'
             }
         }
     }
