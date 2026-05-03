@@ -2,6 +2,9 @@
 This project demonstrates a basic CI/CD pipeline using Jenkins integrated with GitHub for automated build and testing.
 > Note: This is a simplified demo project. The original implementation was removed, and this repository is intended to showcase the CI/CD concept using Jenkins.
 
+## Demo Video
+Click below to watch the pipeline in action:
+[Watch the demo](https://github.com/Wael-Elmenshawy/jenkins-demo/issues/1)
 
 ## Features
 - Simple pipeline configuration
